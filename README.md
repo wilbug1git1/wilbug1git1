@@ -39,6 +39,8 @@ Azure OpenAI • RAG (ChromaDB) • MITRE ATT&CK • Microsoft Sentinel • Defe
 ## Moonlighting / collaborations
 Open to small projects and prototypes around:
 - secure RAG/agent architecture reviews
+- Detection Engineering Consulting
+- Azure Security Reviews
 - Sentinel detections + hunting packs (ATT&CK mapped)
 - Security Copilot agent/promptbook development
 - LLM guardrails and prompt injection hardening
